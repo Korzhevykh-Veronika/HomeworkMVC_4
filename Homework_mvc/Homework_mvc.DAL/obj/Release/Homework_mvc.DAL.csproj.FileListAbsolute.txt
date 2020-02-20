@@ -1,0 +1,11 @@
+C:\Users\Veronika Korzhevykh\VSProject\Епам\Homework_mvc\Homework_mvc.DAL\bin\Release\Homework_mvc.DAL.dll.config
+C:\Users\Veronika Korzhevykh\VSProject\Епам\Homework_mvc\Homework_mvc.DAL\bin\Release\Homework_mvc.DAL.dll
+C:\Users\Veronika Korzhevykh\VSProject\Епам\Homework_mvc\Homework_mvc.DAL\bin\Release\Homework_mvc.DAL.pdb
+C:\Users\Veronika Korzhevykh\VSProject\Епам\Homework_mvc\Homework_mvc.DAL\bin\Release\EntityFramework.dll
+C:\Users\Veronika Korzhevykh\VSProject\Епам\Homework_mvc\Homework_mvc.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Veronika Korzhevykh\VSProject\Епам\Homework_mvc\Homework_mvc.DAL\bin\Release\EntityFramework.xml
+C:\Users\Veronika Korzhevykh\VSProject\Епам\Homework_mvc\Homework_mvc.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Veronika Korzhevykh\VSProject\Епам\Homework_mvc\Homework_mvc.DAL\obj\Release\Homework_mvc.DAL.csprojAssemblyReference.cache
+C:\Users\Veronika Korzhevykh\VSProject\Епам\Homework_mvc\Homework_mvc.DAL\obj\Release\Homework_mvc.DAL.csproj.CopyComplete
+C:\Users\Veronika Korzhevykh\VSProject\Епам\Homework_mvc\Homework_mvc.DAL\obj\Release\Homework_mvc.DAL.dll
+C:\Users\Veronika Korzhevykh\VSProject\Епам\Homework_mvc\Homework_mvc.DAL\obj\Release\Homework_mvc.DAL.pdb
